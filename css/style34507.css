@@ -1,0 +1,14 @@
+p {
+    width: 100px;
+    height: 100px;
+
+}
+
+.exampleone {background-color: midnightblue;}
+
+.exampletwo {background-color: rgb(206, 19, 12);
+            opacity: 0.7;
+
+}
+
+.examplethree {background-color: rgb(206, 19, 12);}
